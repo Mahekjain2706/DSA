@@ -1,0 +1,9 @@
+Map -> red black tree
+unordered_Map -> Hash Table
+unordered_set -> Hash Table
+Set -> using a binary search tree
+stack -> Array, Structure, Pointer, and Linked List.
+queue ->  It can be implemented using an array
+linkList -> pointers
+
+

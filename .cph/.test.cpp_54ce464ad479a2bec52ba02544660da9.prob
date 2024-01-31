@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\adminset\\Desktop\\dsa\\test.cpp","tests":[{"id":1698086504372,"input":"5\nwer wer tyu oio tyu\n3\nwer tyu uio","output":"2 2 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\adminset\\Desktop\\dsa\\test.cpp","group":"local","local":true}
